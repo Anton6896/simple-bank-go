@@ -6,7 +6,7 @@ volumes:
 
 services:
   postgres:
-    image: postgres:latest
+    image: postgres:15-alpine
     environment:
       - POSTGRES_USER=root
       - POSTGRES_PASSWORD=secret
