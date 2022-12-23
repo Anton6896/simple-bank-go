@@ -1,2 +1,3 @@
 # simple-bank-go
-learning go 
+
+learning go
